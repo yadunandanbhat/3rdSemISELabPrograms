@@ -1,4 +1,4 @@
-# labprograms
+# 3rd Semester ISE Lab Programs
 
 I've created this repository to store almost all the lab programs for VTU's 3rd semester of Information Science and Engineering.
 Input the correct data type or the program fails. Check the constarints for the programs using the below document -
